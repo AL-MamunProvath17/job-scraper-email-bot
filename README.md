@@ -210,13 +210,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ChromaDB](https://www.trychroma.com/) for vector database functionality
 - [Flask](https://flask.palletsprojects.com/) for the web framework
 
-## 📞 Contact
-
-**Md. Al-Mamun Provath** - Business Development Executive at NovaTech AI
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
